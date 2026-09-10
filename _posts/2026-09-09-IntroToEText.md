@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Elevator Pitch
+title: Intro to Electronic Textiles
 subtitle: Excited for electronic textiles
 author: Ezra Powers
 ---

@@ -88,9 +88,9 @@ rss-description: This is my website for E-Textiles
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
-  linkedin: true
+  twitter: false
+  facebook: false
+  linkedin: false
   vk: false
   reddit: false
 

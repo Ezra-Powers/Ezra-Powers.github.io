@@ -1,1 +1,7 @@
-
+---
+layout: post
+title: Intro to Electronic Textiles
+subtitle: Excited for electronic textiles
+author: Ezra Powers
+---
+[image] This project was a demonstration of basic circuitry using the conductive thread to make a parrallel circuit with 3 Arduino LEDS that is kept closed by a switch and a button. This circuit is built into the outside of a stuffed creature which required combining two layers of felt and adding stuffing in the middle (cut up felt pieces in this case) to give it a 3 dimensional structure. One trick is to be sure to make secure knots when ending a line of cunductive thread, as you have to cut the hanging piece very close to the knot to stop possible short circuits or jumps past the switches.
